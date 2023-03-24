@@ -1,7 +1,9 @@
 # catsVsDogs
 Cats vs Dogs image classification with transfer learning from vgg16
 
-A deep CNN implementation that modifies the last few layers of the pretrained vgg16 model and repurposes it to classify cat and dog images
+A deep CNN implementation that modifies the last few layers of the pretrained vgg16 model and repurposes it to classify cat and dog images.
+
+Depending on the selected subset of training and testing images, 97 to 99% accuracy is usually achieved. 
 
 The code needs tensorflow, keras, numpy, pandas, matplotlib, sklearn, itertools and glob installed in the Python environment.
 
