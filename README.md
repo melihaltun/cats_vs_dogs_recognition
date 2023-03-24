@@ -11,6 +11,6 @@ Download the dataset from: https://www.kaggle.com/competitions/dogs-vs-cats/data
 
 Extract the contents of train folder to "./cats_vs_dogs/" folder under the project folder
 
-During the first run the code will do a random sampling of the data form the train, test, validation sets. They will be reused in the subsequent runs. Number of images in each set can be modified as needed. If a new train, validation & test set is needed, delete the "test", "train", and "valid" folders under "./cats_vs_dogs/"
+During the first run the code will do a random sampling of the data and form the train, test, validation sets. They will be reused in the subsequent runs. Number of images in each set can be modified as needed. If a new train, validation & test set is needed, delete the "test", "train", and "valid" folders under "./cats_vs_dogs/"
 
 GPU parallelization is turned off, but it can be turned on by uncommenting the relevant line.
