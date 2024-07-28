@@ -1,5 +1,5 @@
 # catsVsDogs
-Cats vs Dogs image classification with transfer learning from vgg16
+Cats vs Dogs image classification with transfer learning from vgg16 model
 
 A deep CNN implementation that modifies the last few layers of the pretrained vgg16 model and repurposes it to classify cat and dog images.
 
